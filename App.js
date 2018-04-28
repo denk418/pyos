@@ -10,8 +10,8 @@ import {
 } from 'react-native';
 import { StackNavigator } from 'react-navigation';
 import YouTube from 'react-native-youtube';
-import Icon from 'react-native-vector-icons/MaterialIcons';
-import Icons from 'react-native-vector-icons/MaterialCommunityIcons';
+import { MaterialIcons } from '@expo/vector-icons';
+//import Icons from 'react-native-vector-icons/MaterialCommunityIcons';
 import YouTubeVideo from './YouTubeVideo';
 
 const apiKey = 'AIzaSyAXxqXm8XYz-BKuKHz0TO3LUqE2qFR94CM';
@@ -23,7 +23,7 @@ class App extends Component {
   constructor(props){
     super(props);
     this.state = {
-      data: []
+      data: [],
     };
   }
 
@@ -66,7 +66,7 @@ class App extends Component {
                   source={require('./images/NightKing.jpg')}
                   style={{width: 40, height: 40, borderRadius: 20, marginRight: 5}}/>
                  <Text style={styles.vidText}>{item.snippet.title}</Text>
-                 <Icon name='more-vert' size={20} color='#555' />
+                 <MaterialIcons name='more-vert' size={20} color='#555'/>
                </View>
              </View>
            </TouchableHighlight>
