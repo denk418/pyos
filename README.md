@@ -1,3 +1,15 @@
+## Simple Guide
+1 - git clone
+2 - npm install
+* node version higher than v8 required
+3 - npm start
+* npm start android or ios (if you have appropriate device)
+
+For native app build (haven't been tested yet)
+- npm run eject 
+* setup project as react-native app
+
+
 This project was bootstrapped with [Create React Native App](https://github.com/react-community/create-react-native-app).
 
 Below you'll find information about performing common tasks. The most recent version of this guide is available [here](https://github.com/react-community/create-react-native-app/blob/master/react-native-scripts/template/README.md).
