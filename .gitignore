@@ -57,3 +57,14 @@ typings/
 # dotenv environment variables file
 .env
 
+# Jshin
+.jshintrc
+
+# Expo
+.expo
+
+# Babel
+.babelrc
+
+.flowconfig
+.watchmanconfig
