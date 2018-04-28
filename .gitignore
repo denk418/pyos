@@ -60,11 +60,5 @@ typings/
 # Jshin
 .jshintrc
 
-# Expo
-.expo
-
-# Babel
-.babelrc
-
-.flowconfig
-.watchmanconfig
+# expo
+.expo/
