@@ -2,7 +2,7 @@
 * git clone
 * npm install
   * node version higher than v8 required
-* - npm start
+* npm start
   * npm start android or ios (if you have appropriate device)
 
 ###For native app build (haven't been tested yet)
