@@ -5,7 +5,7 @@
 * npm start
   * npm start android or ios (if you have appropriate device)
 
-###For native app build (haven't been tested yet)
+### For native app build (haven't been tested yet)
 * npm run eject 
   * setup project as react-native app
 
