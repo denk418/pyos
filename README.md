@@ -1,5 +1,5 @@
 ## Simple Guide
-* git clone <this project>
+* git clone this project
 * npm install
   * node version higher than v8 required
 * npm start
@@ -14,8 +14,9 @@
 * android developement environment setup
   * https://medium.com/@hui5/install-and-setup-android-development-environment-in-ubuntu-3dc4eeb719b4
 * android api 23 sdk platform install (6.0) from sdk manager
-* setup ANDROID_HOME path to /home/<user>/Android/Sdk
+* setup ANDROID_HOME path to /home/your_user_name/Android/Sdk
 * react-native run-android
+  * packager should be running (npm start)
 
 ============================================================================================================================
 
