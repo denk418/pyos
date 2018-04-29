@@ -8,6 +8,11 @@
 ### For native app build (haven't been tested yet)
 * npm run eject 
   * setup project as react-native app
+* sudo npm i -g react-native-cli
+  * if you haven't installed it
+* react-native link
+* android developement environment setup
+  * https://medium.com/@hui5/install-and-setup-android-development-environment-in-ubuntu-3dc4eeb719b4
 
 
 This project was bootstrapped with [Create React Native App](https://github.com/react-community/create-react-native-app).
