@@ -5,7 +5,7 @@
 * npm start
   * npm start android or ios (if you have appropriate device)
 
-### For native app build (haven't been tested yet)
+### For native app build
 * npm run eject 
   * setup project as react-native app
 * sudo npm i -g react-native-cli
@@ -17,6 +17,7 @@
 * setup ANDROID_HOME path to /home/<user>/Android/Sdk
 * react-native run-android
 
+============================================================================================================================
 
 This project was bootstrapped with [Create React Native App](https://github.com/react-community/create-react-native-app).
 
